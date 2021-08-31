@@ -1,3 +1,3 @@
-#Melbourne Airbnb Price Prediction - Projekat
+# Melbourne Airbnb Price Prediction - Projekat
 
-#Clan: Marko Mikulic
+# Clan: Marko Mikulic
